@@ -1,4 +1,3 @@
-# Hello,I'm bo-chain🤙
 
 <a href="https://github-readme-stats.vercel.app/api?username=cantpr09ram&show_icons=true&theme=dracula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cantpr09ram&show_icons=true&theme=dracula" />
